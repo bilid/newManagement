@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1.JPG</file>
+        <file>res/back.png</file>
+        <file>res/camping_72px_1206967_easyicon.net.png</file>
+        <file>res/device.png</file>
+        <file>res/guangai.png</file>
+        <file>res/off.png</file>
+        <file>res/on.png</file>
+        <file>res/PID.png</file>
+        <file>res/qixiang .png</file>
+        <file>res/shuihuanjing .png</file>
+        <file>res/turang.png</file>
+        <file>res/label.png</file>
+        <file>res/0,0.png</file>
+        <file>res/1,0.png</file>
+        <file>res/1,1.png</file>
+        <file>res/1,2.png</file>
+        <file>res/2,3.png</file>
+        <file>res/2,4.png</file>
+        <file>res/2,5.png</file>
+        <file>res/2,6.png</file>
+        <file>res/2,7.png</file>
+        <file>res/2,8.png</file>
+        <file>res/2,9.png</file>
+        <file>res/3,0.png</file>
+        <file>res/4,0.png</file>
+        <file>res/4,1.png</file>
+        <file>res/4,2.png</file>
+        <file>res/4,3.png</file>
+        <file>res/4,4.png</file>
+        <file>res/4,5.png</file>
+        <file>res/4,6.png</file>
+        <file>res/539990.gif</file>
+        <file>res/1089645.gif</file>
+        <file>res/1094815.gif</file>
+        <file>res/diancifa.png</file>
+        <file>res/2.JPG</file>
+        <file>res/label12.png</file>
+        <file>res/3.JPG</file>
+        <file>res/1.png</file>
+    </qresource>
+</RCC>
